@@ -1,18 +1,26 @@
 <!--
-  PROFILE README · Om Gaikwad  (v2)
-  Repo must be:  omgaikwad-dev/omgaikwad-dev  (public)
+  PROFILE README · Om Gaikwad (v3)
+  Repo must be: omgaikwad-dev/omgaikwad-dev (public)
   Search for "TODO" to personalise.
 
-  FONTS: GitHub blocks custom CSS fonts, so stylish typography is delivered through
-  font-rendering SVG services (readme-typing-svg + capsule-render).
-  Fonts used:  Space Grotesk (headings) · Playfair Display (tagline) · JetBrains Mono (code feel)
+  WHY THINGS WERE INVISIBLE BEFORE:
+  - White text / dark divider lines were drawn with no background, so on GitHub's
+    LIGHT theme they disappeared. Every heading is now a banner with its own background.
+  - "no-bg" trophies had the same problem. Fixed.
+  - The snake image does not exist until the workflow in .github/workflows/snake.yml has run once.
+
+  FONTS: GitHub blocks custom CSS, so fonts come from SVG services:
+  Space Grotesk (headings) · Playfair Display (tagline) · JetBrains Mono (code feel)
 -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:061321,35:123B5D,70:326CA8,100:8BE9FD&height=280&section=header&text=Om%20Gaikwad&fontSize=74&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descSize=18&descAlign=50&descAlignY=60&animation=fadeIn" alt="Om Gaikwad · Full Stack Developer"/>
+<!-- ═══════════════ HERO BANNER ═══════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:061321,45:123B5D,100:326CA8&height=300&section=header&text=Om%20Gaikwad&fontSize=76&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%C2%B7%20AI%20BUILDER&descSize=18&descAlign=50&descAlignY=58&animation=twinkling" alt="Om Gaikwad · Full Stack Developer"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=24&duration=3000&pause=1200&color=8BE9FD&center=true&vCenter=true&width=720&height=45&lines=Building+AI-driven+web+%26+mobile+apps;2%C3%97+Hackathon+Winner;React+%C2%B7+Node.js+%C2%B7+Flutter+%C2%B7+Django;Open+to+connecting+with+devs+%26+founders" alt="Tagline"/>
+<a href="https://github.com/omgaikwad-dev">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=26&duration=3000&pause=1200&color=3FA9F5&center=true&vCenter=true&width=760&height=50&lines=Building+AI-driven+web+%26+mobile+apps;2%C3%97+Hackathon+Winner;React+%C2%B7+Node.js+%C2%B7+Flutter+%C2%B7+Django;Open+to+connecting+with+devs+%26+founders" alt="Tagline"/>
+</a>
 
 <br/>
 
@@ -23,19 +31,16 @@
 <br/>
 
 <img src="https://img.shields.io/badge/%F0%9F%93%8D-Pune%2C%20Maharashtra%2C%20India-071525?style=flat-square&labelColor=071525&color=326CA8" alt="Location"/>
-<img src="https://img.shields.io/badge/STATUS-Open%20to%20collaborate-8BE9FD?style=flat-square&labelColor=071525" alt="Status"/>
+<img src="https://img.shields.io/badge/STATUS-Open%20to%20collaborate-1FA37A?style=flat-square&labelColor=071525" alt="Status"/>
 <img src="https://img.shields.io/badge/%F0%9F%8F%86-2%C3%97%20Hackathon%20Winner-326CA8?style=flat-square&labelColor=071525" alt="Hackathon winner"/>
 
 </div>
 
 <br/>
 
-<!-- ───────────────────────── ABOUT ───────────────────────── -->
-
+<!-- ═══════════════ 01 ABOUT ═══════════════ -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=1800&pause=100000&color=FFFFFF&center=true&vCenter=true&width=600&height=50&lines=01+%2F+ABOUT+ME&repeat=false" alt="About me"/>
-<br/>
-<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:061321,50:8BE9FD,100:061321&height=2" alt=""/>
+<img width="80%" src="https://capsule-render.vercel.app/api?type=rect&height=64&color=0:061321,50:123B5D,100:326CA8&text=01%20%2F%20ABOUT%20ME&fontSize=24&fontColor=FFFFFF&fontAlign=50&fontAlignY=52&section=header" alt="01 / About me"/>
 </div>
 
 <br/>
@@ -44,7 +49,7 @@
 <tr>
 <td width="58%" valign="top">
 
-### Hello, I'm Om 👋
+### 👋 Hello, I'm Om
 
 I'm a **Full Stack Developer** and **Computer Engineering student** who loves turning ideas into working products. I build **AI-driven web and mobile apps** and enjoy solving real problems with clean, practical engineering.
 
@@ -74,12 +79,9 @@ I'm a **Full Stack Developer** and **Computer Engineering student** who loves tu
 
 <br/>
 
-<!-- ───────────────────────── WHAT I BUILD ───────────────────────── -->
-
+<!-- ═══════════════ 02 WHAT I BUILD ═══════════════ -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=1800&pause=100000&color=FFFFFF&center=true&vCenter=true&width=600&height=50&lines=02+%2F+WHAT+I+BUILD&repeat=false" alt="What I build"/>
-<br/>
-<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:061321,50:8BE9FD,100:061321&height=2" alt=""/>
+<img width="80%" src="https://capsule-render.vercel.app/api?type=rect&height=64&color=0:061321,50:123B5D,100:326CA8&text=02%20%2F%20WHAT%20I%20BUILD&fontSize=24&fontColor=FFFFFF&fontAlign=50&fontAlignY=52&section=header" alt="02 / What I build"/>
 </div>
 
 <br/>
@@ -88,6 +90,8 @@ I'm a **Full Stack Developer** and **Computer Engineering student** who loves tu
 <tr>
 <td align="center" width="33%" valign="top">
 
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Web icons"/>
+
 ### 🌐 Web
 **React · Next.js**<br/>
 Fast, responsive interfaces with a focus on clean UX.
@@ -95,12 +99,16 @@ Fast, responsive interfaces with a focus on clean UX.
 </td>
 <td align="center" width="33%" valign="top">
 
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark" alt="Mobile icons"/>
+
 ### 📱 Mobile
 **Flutter · Dart**<br/>
 Cross-platform apps from a single codebase.
 
 </td>
 <td align="center" width="33%" valign="top">
+
+<img src="https://skillicons.dev/icons?i=nodejs,django,py&theme=dark" alt="Backend icons"/>
 
 ### ⚙️ Backend & AI
 **Node.js · Django · Python**<br/>
@@ -112,31 +120,28 @@ APIs, data layers and intelligent features.
 
 <br/>
 
-<!-- ───────────────────────── TECH ───────────────────────── -->
-
+<!-- ═══════════════ 03 TECH ═══════════════ -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=1800&pause=100000&color=FFFFFF&center=true&vCenter=true&width=600&height=50&lines=03+%2F+TECH+UNIVERSE&repeat=false" alt="Tech universe"/>
-<br/>
-<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:061321,50:8BE9FD,100:061321&height=2" alt=""/>
+<img width="80%" src="https://capsule-render.vercel.app/api?type=rect&height=64&color=0:061321,50:123B5D,100:326CA8&text=03%20%2F%20TECH%20UNIVERSE&fontSize=24&fontColor=FFFFFF&fontAlign=50&fontAlignY=52&section=header" alt="03 / Tech universe"/>
 
 <br/><br/>
 
 <table>
 <tr>
-<td align="center" width="170"><b>Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,dart,html,css&theme=dark&perline=8" alt="Languages"/></td>
+<td align="center" width="170"><b>💬 Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=py,java,cpp,js,ts,dart,html,css&theme=dark&perline=8" alt="Languages"/></td>
 </tr>
 <tr>
-<td align="center"><b>Frameworks</b></td>
-<td><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,fastapi,flutter&theme=dark&perline=7" alt="Frameworks"/></td>
+<td align="center"><b>🧩 Frameworks</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,fastapi,flutter,tailwind&theme=dark&perline=8" alt="Frameworks"/></td>
 </tr>
 <tr>
-<td align="center"><b>Data & Cloud</b></td>
-<td><img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql&theme=dark&perline=3" alt="Data and cloud"/></td>
+<td align="center"><b>🗄️ Data & Cloud</b></td>
+<td><img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,vercel&theme=dark&perline=5" alt="Data and cloud"/></td>
 </tr>
 <tr>
-<td align="center"><b>Tools & Hardware</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,vscode,arduino&theme=dark&perline=4" alt="Tools"/></td>
+<td align="center"><b>🛠️ Tools & Hardware</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,arduino&theme=dark&perline=6" alt="Tools"/></td>
 </tr>
 </table>
 
@@ -144,19 +149,62 @@ APIs, data layers and intelligent features.
 
 <br/>
 
-<!-- ───────────────────────── PROJECTS ───────────────────────── -->
-
+<!-- ═══════════════ 04 PROJECTS ═══════════════ -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=1800&pause=100000&color=FFFFFF&center=true&vCenter=true&width=600&height=50&lines=04+%2F+FEATURED+PROJECTS&repeat=false" alt="Featured projects"/>
-<br/>
-<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:061321,50:8BE9FD,100:061321&height=2" alt=""/>
+<img width="80%" src="https://capsule-render.vercel.app/api?type=rect&height=64&color=0:061321,50:123B5D,100:326CA8&text=04%20%2F%20FEATURED%20PROJECTS&fontSize=24&fontColor=FFFFFF&fontAlign=50&fontAlignY=52&section=header" alt="04 / Featured projects"/>
 
 <br/><br/>
 
-<a href="https://github.com/omgaikwad-dev/mindwealth_ai"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=omgaikwad-dev&repo=mindwealth_ai&hide_border=true&bg_color=071525&title_color=8BE9FD&text_color=DCEAF7&icon_color=70B7FF" alt="MindWealth AI"/></a>
-<a href="https://github.com/omgaikwad-dev/AI_Agent"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=omgaikwad-dev&repo=AI_Agent&hide_border=true&bg_color=071525&title_color=8BE9FD&text_color=DCEAF7&icon_color=70B7FF" alt="AI Agent"/></a>
-<a href="https://github.com/omgaikwad-dev/PawPedia"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=omgaikwad-dev&repo=PawPedia&hide_border=true&bg_color=071525&title_color=8BE9FD&text_color=DCEAF7&icon_color=70B7FF" alt="PawPedia"/></a>
-<a href="https://github.com/omgaikwad-dev/clair"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=omgaikwad-dev&repo=clair&hide_border=true&bg_color=071525&title_color=8BE9FD&text_color=DCEAF7&icon_color=70B7FF" alt="Clair"/></a>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🧠 <a href="https://github.com/omgaikwad-dev/mindwealth_ai">MindWealth AI</a></h3>
+<sub>AI-focused application for smarter money and mindset decisions.</sub>
+<br/><br/>
+<img src="https://img.shields.io/github/languages/top/omgaikwad-dev/mindwealth_ai?style=flat-square&labelColor=071525&color=326CA8" alt="languages/top"/>
+<img src="https://img.shields.io/github/stars/omgaikwad-dev/mindwealth_ai?style=flat-square&labelColor=071525&color=326CA8&logo=github&logoColor=8BE9FD" alt="stars"/>
+<img src="https://img.shields.io/github/forks/omgaikwad-dev/mindwealth_ai?style=flat-square&labelColor=071525&color=326CA8&logo=github&logoColor=8BE9FD" alt="forks"/>
+<img src="https://img.shields.io/github/last-commit/omgaikwad-dev/mindwealth_ai?style=flat-square&labelColor=071525&color=326CA8" alt="last-commit"/>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🤖 <a href="https://github.com/omgaikwad-dev/AI_Agent">AI Agent</a></h3>
+<sub>Exploring AI agent development and intelligent workflows.</sub>
+<br/><br/>
+<img src="https://img.shields.io/github/languages/top/omgaikwad-dev/AI_Agent?style=flat-square&labelColor=071525&color=326CA8" alt="languages/top"/>
+<img src="https://img.shields.io/github/stars/omgaikwad-dev/AI_Agent?style=flat-square&labelColor=071525&color=326CA8&logo=github&logoColor=8BE9FD" alt="stars"/>
+<img src="https://img.shields.io/github/forks/omgaikwad-dev/AI_Agent?style=flat-square&labelColor=071525&color=326CA8&logo=github&logoColor=8BE9FD" alt="forks"/>
+<img src="https://img.shields.io/github/last-commit/omgaikwad-dev/AI_Agent?style=flat-square&labelColor=071525&color=326CA8" alt="last-commit"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🐾 <a href="https://github.com/omgaikwad-dev/PawPedia">PawPedia</a></h3>
+<sub>A software project from my portfolio.</sub>
+<br/><br/>
+<img src="https://img.shields.io/github/languages/top/omgaikwad-dev/PawPedia?style=flat-square&labelColor=071525&color=326CA8" alt="languages/top"/>
+<img src="https://img.shields.io/github/stars/omgaikwad-dev/PawPedia?style=flat-square&labelColor=071525&color=326CA8&logo=github&logoColor=8BE9FD" alt="stars"/>
+<img src="https://img.shields.io/github/forks/omgaikwad-dev/PawPedia?style=flat-square&labelColor=071525&color=326CA8&logo=github&logoColor=8BE9FD" alt="forks"/>
+<img src="https://img.shields.io/github/last-commit/omgaikwad-dev/PawPedia?style=flat-square&labelColor=071525&color=326CA8" alt="last-commit"/>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>✨ <a href="https://github.com/omgaikwad-dev/clair">Clair</a></h3>
+<sub>A web project exploring modern application interfaces.</sub>
+<br/><br/>
+<img src="https://img.shields.io/github/languages/top/omgaikwad-dev/clair?style=flat-square&labelColor=071525&color=326CA8" alt="languages/top"/>
+<img src="https://img.shields.io/github/stars/omgaikwad-dev/clair?style=flat-square&labelColor=071525&color=326CA8&logo=github&logoColor=8BE9FD" alt="stars"/>
+<img src="https://img.shields.io/github/forks/omgaikwad-dev/clair?style=flat-square&labelColor=071525&color=326CA8&logo=github&logoColor=8BE9FD" alt="forks"/>
+<img src="https://img.shields.io/github/last-commit/omgaikwad-dev/clair?style=flat-square&labelColor=071525&color=326CA8" alt="last-commit"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -171,79 +219,97 @@ APIs, data layers and intelligent features.
 | 05 | **ShilpSetu** | An AI-driven concept that helps artisans digitise product catalogues and reach potential buyers. <!-- TODO: link repo if public --> | `AI` `Social Impact` `Market Linkage` |
 
 <div align="center">
-
 <a href="https://github.com/omgaikwad-dev?tab=repositories"><img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS%20%E2%86%97-123B5D?style=for-the-badge&logo=github&logoColor=8BE9FD" alt="View all projects"/></a>
-
 </div>
 
 <br/>
 
-<!-- ───────────────────────── JOURNEY ───────────────────────── -->
-
+<!-- ═══════════════ 05 JOURNEY ═══════════════ -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=1800&pause=100000&color=FFFFFF&center=true&vCenter=true&width=600&height=50&lines=05+%2F+JOURNEY&repeat=false" alt="Journey"/>
-<br/>
-<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:061321,50:8BE9FD,100:061321&height=2" alt=""/>
+<img width="80%" src="https://capsule-render.vercel.app/api?type=rect&height=64&color=0:061321,50:123B5D,100:326CA8&text=05%20%2F%20JOURNEY&fontSize=24&fontColor=FFFFFF&fontAlign=50&fontAlignY=52&section=header" alt="05 / Journey"/>
 </div>
 
 <br/>
 
 | | | |
 |:-:|---|---|
-| 💼 | **Setcoders** | <!-- TODO: add your role and dates, e.g. "Full Stack Developer · 2025 – Present" --> Role and dates to add |
+| 💼 | **Setcoders** | Full Stack Developer <!-- TODO: confirm role and add dates, e.g. "· 2025 – Present" --> |
 | 🎓 | **Smt. Kashibai Navale College of Engineering** | Computer Engineering <!-- TODO: add years --> |
 | 🏆 | **Hackathons** | 2× winner <!-- TODO: add names and years --> |
 
 <br/>
 
-<!-- ───────────────────────── STATS ───────────────────────── -->
-
+<!-- ═══════════════ 06 STATS ═══════════════ -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=1800&pause=100000&color=FFFFFF&center=true&vCenter=true&width=600&height=50&lines=06+%2F+GITHUB+OBSERVATORY&repeat=false" alt="GitHub observatory"/>
-<br/>
-<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:061321,50:8BE9FD,100:061321&height=2" alt=""/>
+<img width="80%" src="https://capsule-render.vercel.app/api?type=rect&height=64&color=0:061321,50:123B5D,100:326CA8&text=06%20%2F%20GITHUB%20OBSERVATORY&fontSize=24&fontColor=FFFFFF&fontAlign=50&fontAlignY=52&section=header" alt="06 / GitHub observatory"/>
 
 <br/><br/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=omgaikwad-dev&show_icons=true&hide_border=true&bg_color=071525&title_color=8BE9FD&text_color=DCEAF7&icon_color=70B7FF&rank_icon=github" alt="GitHub stats"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omgaikwad-dev&layout=compact&langs_count=8&hide_border=true&bg_color=071525&title_color=8BE9FD&text_color=DCEAF7" alt="Top languages"/>
+<!-- Cards below are generated by .github/workflows/profile-cards.yml (no third-party server needed) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/0-profile-details.svg">
+  <img height="190" alt="0-profile-details" src="./profile-summary-card-output/github_dark/0-profile-details.svg"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/3-stats.svg">
+  <img height="190" alt="3-stats" src="./profile-summary-card-output/github_dark/3-stats.svg"/>
+</picture>
 
 <br/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=omgaikwad-dev&hide_border=true&background=071525&ring=8BE9FD&fire=70B7FF&currStreakLabel=8BE9FD&sideLabels=DCEAF7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=90A9C2" alt="GitHub streak"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/2-most-commit-language.svg">
+  <img height="190" alt="2-most-commit-language" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/1-repos-per-language.svg">
+  <img height="190" alt="1-repos-per-language" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/4-productive-time.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/4-productive-time.svg">
+  <img height="190" alt="4-productive-time" src="./profile-summary-card-output/github_dark/4-productive-time.svg"/>
+</picture>
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=omgaikwad-dev&bg_color=071525&color=DCEAF7&line=70B7FF&point=8BE9FD&area=true&hide_border=true&custom_title=DEVELOPMENT%20ACTIVITY" alt="Activity graph"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=omgaikwad-dev&border=326CA8&background=071525&ring=8BE9FD&fire=70B7FF&currStreakLabel=8BE9FD&sideLabels=DCEAF7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=90A9C2" alt="GitHub streak"/>
 
-<br/>
+<br/><br/>
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=omgaikwad-dev&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="Trophies"/>
+<img src="https://img.shields.io/badge/%F0%9F%8F%86-2%C3%97%20Hackathon%20Winner-326CA8?style=for-the-badge&labelColor=071525" alt="Hackathon winner"/>
+<img src="https://img.shields.io/github/followers/omgaikwad-dev?style=for-the-badge&logo=github&logoColor=8BE9FD&labelColor=071525&color=326CA8" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/omgaikwad-dev?style=for-the-badge&logo=github&logoColor=8BE9FD&labelColor=071525&color=326CA8" alt="Stars"/>
 
 </div>
 
 <br/>
 
-<!-- ───────────────────────── SNAKE ───────────────────────── -->
-
+<!-- ═══════════════ 07 SNAKE ═══════════════ -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=1800&pause=100000&color=FFFFFF&center=true&vCenter=true&width=600&height=50&lines=07+%2F+CONTRIBUTION+FLOW&repeat=false" alt="Contribution flow"/>
-<br/>
-<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:061321,50:8BE9FD,100:061321&height=2" alt=""/>
+<img width="80%" src="https://capsule-render.vercel.app/api?type=rect&height=64&color=0:061321,50:123B5D,100:326CA8&text=07%20%2F%20CONTRIBUTION%20FLOW&fontSize=24&fontColor=FFFFFF&fontAlign=50&fontAlignY=52&section=header" alt="07 / Contribution flow"/>
 
 <br/><br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/omgaikwad-dev/omgaikwad-dev/output/github-contribution-grid-snake.svg" alt="Contribution snake"/>
+<!-- Needs .github/workflows/snake.yml to run once (Actions tab → Generate Snake → Run workflow) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omgaikwad-dev/omgaikwad-dev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omgaikwad-dev/omgaikwad-dev/output/github-contribution-grid-snake.svg">
+  <img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/omgaikwad-dev/omgaikwad-dev/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 </div>
 
 <br/>
 
-<!-- ───────────────────────── CONNECT ───────────────────────── -->
-
+<!-- ═══════════════ CONNECT ═══════════════ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=32&duration=2500&pause=1500&color=8BE9FD&center=true&vCenter=true&width=700&height=60&lines=Let's+build+what's+next.;Open+to+devs+%26+founders." alt="Let's build what's next"/>
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=32&duration=2500&pause=1500&color=3FA9F5&center=true&vCenter=true&width=700&height=60&lines=Let's+build+what's+next.;Open+to+devs+%26+founders." alt="Let's build what's next"/>
 
 <br/>
 
@@ -255,6 +321,6 @@ APIs, data layers and intelligent features.
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8BE9FD,50:326CA8,100:061321&height=140&section=footer&text=Made%20with%20curiosity%20and%20code&fontSize=20&fontColor=FFFFFF&fontAlignY=70" alt="Footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:326CA8,50:123B5D,100:061321&height=160&section=footer&text=Made%20with%20curiosity%20and%20code&fontSize=20&fontColor=FFFFFF&fontAlignY=68&animation=twinkling" alt="Footer"/>
 
 </div>
