@@ -1,0 +1,28 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg"
+     width="750"
+     height="52"
+     viewBox="0 0 750 52">
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#061321"/>
+      <stop offset="50%" stop-color="#123B5D"/>
+      <stop offset="100%" stop-color="#326CA8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="750" height="52" fill="url(#bg)"/>
+  <rect x="0" y="0" width="5" height="52" fill="#8BE9FD"/>
+
+  <text x="375" y="32"
+        text-anchor="middle"
+        font-family="Georgia, serif"
+        font-size="18"
+        font-weight="bold"
+        letter-spacing="3"
+        fill="#FFFFFF">
+    <tspan fill="#8BE9FD">07</tspan>
+    <tspan> / CONTRIBUTION FLOW</tspan>
+  </text>
+
+</svg>
