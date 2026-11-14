@@ -1,3 +1,4 @@
+
 name: Generate Profile Cards
 
 on:
@@ -20,4 +21,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          UTC_OFFSET: 5
+          BRANCH_NAME: main
+          UTC_OFFSET: 5.5
+          AUTO_PUSH: true
