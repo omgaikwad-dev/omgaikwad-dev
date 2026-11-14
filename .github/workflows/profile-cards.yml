@@ -15,8 +15,14 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+
     steps:
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      # IMPORTANT: Checkout repository before generating cards
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Profile Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
